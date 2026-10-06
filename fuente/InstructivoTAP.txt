@@ -1,0 +1,2311 @@
+                   Universidad Nacional Experimental del Táchira
+                                Vicerrectorado Académico
+                                  Decanato de Docencia
+
+                           Trabajo de Aplicación Profesional
+                      Modalidad: Proyecto Especial de Grado
+
+Instructivo para la elaboración del Trabajo de Aplicación Profesional en la
+                      modalidad Proyecto Especial de Grado
+
+                                                                                  Responsables:
+                                                     Prof. Freddy E. Díaz D. (Coordinador)
+                                                     Profa. Damaris González M.
+                                                     Profa. Josefina Balbo.
+                                                     Profa. Elcy Y. Nuñez M.
+                                                     Profa. Mónica del C. Pacheco
+                                                     Profa. Zulay Rangel T.
+
+                              San Cristóbal, mayo de 2012
+                                           Introducción
+
+        El Instructivo del Proyecto Especial de Grado tiene como objetivo facilitar a
+los estudiantes que inician el Trabajo de Aplicación Profesional, en esta modalidad, la
+información necesaria para elaborar la propuesta y el informe del proyecto de
+investigación. Su propósito es contribuir a unificar criterios para su elaboración,
+atendiendo a las investigaciones que se desarrollan en la UNET.
+
+        En su elaboración se han considerado los aspectos que emergen comunes y no
+comunes en los instructivos existentes en los Departamentos de Carrera de la
+Universidad, así como el del Decanato de Postgrado. De las Normas para el Trabajo
+de Aplicación Profesional (2010), se consideran dos fases. Una primera que consiste
+en la Presentación de la Propuesta de Proyecto Especial de Grado y la segunda que
+permite la Presentación del Proyecto Especial de Grado.
+
+        A partir de esta información, se decidió organizar el instructivo en tres
+secciones: (a) Estructura del Proyecto Especial de Grado (Propuesta y Proyecto), (b)
+Aspectos Formales (c) y Formatos. La primera incluye una descripción de lo
+requerido para presentar la propuesta y el Proyecto Especial de Grado. En la segunda
+se detallan los aspectos formales para elaboración de índice, tablas, figuras; así como
+sugerencias relacionadas con la redacción, estilo y normas para la presentación
+impresa del proyecto. En Formatos se presentan modelos de portadas y actas. Se
+consideró oportuno incorporar como anexo A y B el procedimiento general para la
+presentación de la Propuesta y Proyecto Especial de Grado.
+
+        Cada una de las secciones, sigue las recomendaciones del Manual de Trabajos
+de Grado, Especialización, Maestría y Tesis Doctoral de la UPEL, así como del
+Manual de Estilo de Publicaciones de la American Psychological Association (APA)
+y de la Guía para la Preparación de Artículos Técnicos para la Revista de la IEEE
+(Institute of Electrical and Electronics Engineers).
+
+                                                        2
+                      Sección I
+Estructura del Proyecto Especial de Grado
+
+La Propuesta de Proyecto Especial de Grado
+
+Las Normas para el Trabajo de Aplicación Profesional (TAP), contemplan la
+
+presentación de una propuesta de proyecto ante la comisión responsable por
+
+departamento, de revisar la pertinencia y completitud de los elementos exigidos en
+
+dicha propuesta. En el Artículo 16, señala los siguientes aspectos constitutivos del
+
+documento a presentar:
+
+Sección o Capítulo                        Elementos constitutivos
+Páginas preliminares      1. Portada de la Propuesta de Proyecto Especial de
+
+     El Problema              Grado.
+   Marco Teórico          2. Carta de Presentación del Proyecto Especial de
+Marco Metodológico
+                              Grado ante la Comisión TAP.
+                          3. Carta de Aceptación del Tutor.
+                          4. Carta de Autorización del Tutor para la
+
+                              presentación de la propuesta.
+                          5. Índices (contenido, tablas, figuras, gráficos, planos,
+
+                              fotografías, mapas, entre otros).
+                          6. Planteamiento y formulación del Problema.
+                          7. Objetivos General y Específicos.
+                          8. Justificación e Importancia.
+                          9. Alcance – delimitaciones.
+                          10. Antecedentes.
+                          11. Bases Teóricas.
+                          12. Definición de términos.
+                          13. Sistema de hipótesis y variables (si aplica).
+                          14. Fases o etapas, métodos.
+
+Aspectos administrativos  15. Recursos y/o presupuesto de ejecución, variabilidad
+        Referencias           o factibilidad de la propuesta.
+
+          Anexos          16. Cronograma de ejecución.
+                          17. Referencias.
+                           a. Carta de compromiso de la Institución que financiará
+
+                             el Proyecto (si es el caso).
+                           c. Récord o Informe Académico del Autor o autores.
+
+                          d. Curriculum Vitae en caso de Tutor Externo
+                           (Artículo 21, Parágrafo único).
+Páginas preliminares. En la sección Formatos de este documento aparecen modelos
+de la portada y cartas que constituyen este apartado de la propuesta. En cada caso, se
+toma el modelo y se escriben los datos que correspondan. La carta de aceptación del
+tutor, indica su compromiso para asumir la tutoría; mientras la de autorización,
+expresa su visto bueno para que la propuesta sea presentada ante la comisión TAP del
+Departamento. El índice de contenido, se describe en la sección Aspectos Formales.
+
+El título del Proyecto Especial de Grado. Se propone elaborarlo en correspondencia
+con el objetivo general de investigación, reflejando la esencia del problema y su
+formulación.
+
+El problema. La descripción de los aspectos que constituyen este apartado, se
+encuentra bajo el subtítulo El Proyecto Especial de Grado, en la siguiente sección.
+
+Marco Teórico. Constituido por los antecedentes, las bases teóricas, definición de
+términos y sistema de hipótesis y variables (si aplica este último). Cada uno de estos
+elementos se describe en la siguiente sección bajo el subtítulo El Proyecto Especial
+de Grado.
+
+Marco Metodológico. La descripción de sus elementos, dará a conocer cómo se
+alcanzarán los objetivos de investigación. Comprende las siguientes fases o etapas:
+enfoque de investigación, nivel o tipo, diseño, población y muestra (si aplica),
+técnicas e instrumentos para recolectar y analizar datos.
+
+Aspectos Administrativos. Por tratarse de una propuesta de Proyecto Especial de
+Grado, es necesario describir la factibilidad de la propuesta en términos de los
+recursos y/o presupuesto de ejecución (si aplica), así como el cronograma que señala
+las fases, actividades y el tiempo que tomará el desarrollo de cada una, para lo cual se
+puede usar como referencia la semana o el mes, según lo requiera la investigación.
+
+                                                        4
+Referencias. En la sección Aspectos formales, se describen las referencias de fuentes
+impresas, electrónicas y audiovisuales con ejemplos ilustrativos de su formulación.
+
+Anexos. Es necesario anexar el informe académico del autor o autores de la
+propuesta, ya que es un referente para valorar el cumplimiento de los requisitos
+exigidos en la normativa. Así mismo, es obligatorio en el caso de Tutor Externo
+adjuntar su curriculum vitae a la propuesta, con los soportes de título de pregrado y
+experiencia profesional mínima de tres años en el área del Proyecto Especial de
+Grado (Numeral 3, Artículo 21, Normas TAP).
+
+                       El Proyecto Especial de Grado
+
+Una vez aprobada la Propuesta de Proyecto Especial de Grado, el estudiante
+
+se dispone a elaborar el Proyecto Especial de Grado, que consiste en la presentación
+
+de un documento escrito donde plantea el desarrollo de la investigación, a través de
+
+sus elementos constitutivos: Preliminares, El Problema, Fundamentos Teóricos,
+
+Fundamentos Metodológicos, Análisis y Discusión de Resultados, Conclusiones y
+
+Recomendaciones, Propuesta (opcional), Referencias, Anexos, como se presenta a
+
+continuación.
+
+ Sección o Capítulo                    Elementos constitutivos
+                       1. Portada del Proyecto Especial de Grado.
+ Páginas preliminares  2. Contraportada del Proyecto Especial de Grado.
+                       3. Carta de Aprobación para presentación
+             I         4. Dedicatoria (opcional)
+      El Problema      5. Agradecimiento (opcional)
+                       6. Índice General
+            II         7. Otros índices
+Fundamentos Teóricos   8. Resumen
+                       9. Introducción
+                       10. Planteamiento y formulación del Problema.
+                       11. Objetivos General y Específicos.
+                       12. Justificación e Importancia.
+                       13. Alcance y limitaciones.
+                       14. Antecedentes.
+                       15. Bases Teóricas.
+                       16. Bases Legales (opcional).
+                       17. Definición de términos (opcional).
+
+                       5
+     Sección o Capítulo                    Elementos constitutivos
+                II         18. Sistema de hipótesis (opcional).
+                           19. Sistema de Variables (opcional)
+   Fundamentos Teóricos    20. Operacionalización de variables (opcional).
+      (Continuación…)      21. Enfoque de Investigación.
+                           22. Tipo o nivel de Investigación.
+                III        23. Diseño de Investigación.
+Fundamentos Metodológicos  24. Población y muestra (opcional).
+                           25. Técnicas e instrumentos para la recolección de
+               IV
+          Resultados           datos (opcional).
+                           26. Validez de los instrumentos (opcional).
+                V          27. Confiabilidad de los instrumentos (opcional).
+        Conclusiones y     28. Técnicas para el análisis e interpretación de datos
+      Recomendaciones
+                               (opcional).
+               VI
+           Propuesta       29. Conclusiones
+          Referencias
+            Anexos         30. Recomendaciones
+
+                           (Opcional)
+
+        Es de resaltar que el término opcional que aparece en el cuadro anterior, se
+refiere a que existe la posibilidad de que sean desarrollados o no los aspectos
+planteados, según la naturaleza de la investigación.
+
+        La carta de aprobación para presentación, una vez evaluado el Proyecto
+Especial de Grado y aprobado en Acta, debe ser sustituida por esta Acta.
+
+                                             Preliminares
+
+        Constituidas por la portada, contraportada, carta de aprobación del Tutor,
+dedicatoria, agradecimiento, índice general e índices necesarios de acuerdo con la
+naturaleza de la investigación, resumen e introducción. En la sección formatos, se
+describen los modelos propuestos para portada, contraportada, carta de aprobación
+del Tutor, índice general y resumen.
+
+                           6
+ Resumen
+
+        Es la presentación de los elementos constitutivos del Proyecto Especial de
+Grado. En su elaboración es necesario considerar:
+
+        De fondo. Breve descripción del problema que incluye el planteamiento y la
+formulación, objetivo general, proceso metodológico, resultados, conclusiones,
+recomendaciones y descriptores o palabras claves.
+
+        De forma. Compuesto por tres (3) cuerpos: a) encabezado que incluye
+identificación institucional, título, autor o autores, lugar y fecha. Resaltado en negrilla
+y en mayúscula se escribe en la parte superior central la palabra resumen; b)
+desarrollo el cual tendrá máximo 300 palabras, redactado en pasado, interlineado
+sencillo, sin sangría y; c) palabras claves, no mayor a cinco (5) términos, ubicadas al
+final del desarrollo. Todo en una sola página. En la sección Formatos se presenta un
+modelo de resumen.
+
+Introducción
+        Consiste en una descripción que tiene como propósito anunciar al lector lo que
+
+va a encontrar en el texto, atraer su interés y facilitar la comprensión de la forma
+como se estructura el contenido. Para su elaboración, se recomienda:
+
+    De fondo. Incorporar, como mínimo, los siguientes elementos:
+    1. Planteamiento y formulación del problema.
+    2. Objetivo general.
+    3. Justificación del trabajo.
+    4. Explicación de la fundamentación metodológica.
+    5. Estructura del trabajo
+
+             a. Identificación (título) de cada capítulo.
+             b. Breve descripción del contenido de cada capítulo.
+
+                                                        7
+ De forma: Redacción entre dos (2) o tres (3) páginas, interlineado a 1.5.
+Resaltado en negrilla y en mayúscula, se escribe introducción en la parte superior
+central de la página.
+
+                                            El Problema
+
+        Aspecto de la investigación que contempla los siguientes elementos
+constitutivos: planteamiento y formulación del problema, objetivos de investigación,
+justificación y alcance.
+
+                                               CAPÍTULO I
+                                             EL PROBLEMA
+
+                            Planteamiento y Formulación del Problema
+        El Planteamiento del Problema consiste en la presentación detallada y precisa
+de la discrepancia, vacío en el conocimiento, incertidumbre, laguna teórica o
+necesidad por resolver, que amerita ser investigada con la intención de plantear
+alternativas de solución. Se recomienda construirlo de lo general a lo particular,
+contextualizándolo en ámbitos geográficos y delimitando la situación objeto de
+investigación.
+        La Formulación del Problema consiste en la presentación de interrogantes o
+enunciados vinculados con el título y los objetivos de la investigación. Las
+interrogantes no podrán ser respondidas con un sí o un no, deben comprender
+acciones por parte del investigador.
+
+                                 Objetivos de la investigación
+
+        Son las acciones que realiza el investigador orientadas a la búsqueda de
+respuestas a las necesidades presentadas en el planteamiento del problema. Se
+clasifican en generales y específicos.
+
+                                                        8
+        Objetivo general. Tiene relación con la finalidad, con las metas, los logros
+deseados, los propósitos finales del trabajo, los cuales orientan el devenir del mismo,
+y posee correspondencia directa con el título y con la formulación presentada en el
+planteamiento del problema.
+
+         Objetivos específicos. Acciones que ejecuta el investigador para lograr el
+objetivo general, deben ser secuenciales y corresponderse con la formulación de
+interrogantes o enunciados presentados en el planteamiento del problema.
+
+                                            Justificación
+
+        Es la respuesta a la interrogante ¿Por qué? se realiza la investigación; debe
+contener las razones o motivos que justifican el estudio, aportes teóricos,
+metodológicos, prácticos, factibilidad, impacto social (beneficios y beneficiarios) los
+cuales serán presentados de acuerdo a los requerimientos del objeto de estudio.
+
+                                     Alcance y limitaciones
+
+        Consiste en especificar con claridad y precisión hasta donde se pretende
+llegar, debe tener vinculación con el título y el objetivo general de la investigación.
+Se entiende por limitaciones aquellos aspectos ajenos al investigador que
+obstaculizan el cumplimiento total de las actividades previstas.
+
+                                          CAPÍTULO II
+                               FUNDAMENTOS TEÓRICOS
+
+                                           Antecedentes
+
+        Son los estudios previos relacionados con el problema planteado; reflejan el
+avance y el estado actual del conocimiento en el área abordada. También se refieren a
+experiencias similares al objeto de estudio, realizadas por instituciones públicas o
+privadas.
+
+                                                        9
+        Se recomienda analizar un antecedente en cada uno de los siguientes ámbitos:
+internacional, nacional, regional o local. Dicho análisis debe comprender los
+siguientes aspectos: autor, año, país, institución, título, objetivo, contenido
+metodológico, resultados o conclusiones, recomendaciones y, la elaboración
+intelectual realizada por el estudiante sobre los aportes que ofrece el antecedente para
+el objeto de estudio en particular.
+
+                                           Bases teóricas
+
+        Se refiere al desarrollo amplio de los fundamentos teóricos planteados por uno
+o diferentes autores que permiten al investigador sustentar su investigación. Debe
+contemplar la posición o postura del investigador con relación a las fuentes
+analizadas.
+
+        Los siguientes elementos constitutivos se consideran opcionales de acuerdo
+con la naturaleza de la investigación.
+
+                                           Bases legales
+
+        Están conformadas por el conjunto de documentos legales que sustentan
+jurídicamente la investigación, como por ejemplo: leyes, normativas, decretos,
+resoluciones, reglamentos, entre otros.
+
+                                     Definición de términos
+
+        Es la aclaración del sentido en que se utilizan los conceptos o expresiones
+empleados según el contexto de la investigación y deben presentarse alfabéticamente.
+
+                                       Sistema de hipótesis
+
+        Es el conjunto de suposiciones relacionadas entre sí, que sirven de guía y
+orientación en la búsqueda de soluciones a los problemas planteados de la
+investigación.
+
+                                                       10
+                                       Sistema de variables
+        Enunciados que reflejan el conjunto de características cambiantes relacionadas
+según su dependencia o función en la investigación. La variable es el atributo o
+cualidad de alguien o de algo que cambia y que puede asumir diferentes valores en un
+momento o en una situación determinada.
+
+                               Operacionalización de variables
+        Las variables se operacionalizan mediante la especificación de sus
+dimensiones e indicadores, que consiste en desglosar las variables en aspectos más
+específicos surgidos de las bases teóricas.
+
+                                          CAPÍTULO III
+                         FUNDAMENTOS METODOLÓGICOS
+
+                                    Enfoque paradigmático
+        Son las diferentes posturas que el investigador asume como punto de partida
+para abordar la investigación respecto a la naturaleza del objeto de estudio. Dichos
+enfoques son los siguientes: cualitativo, cuantitativo y mixto o complementario.
+
+                     Tipo de investigación o nivel de la investigación
+        Se refiere al grado de profundidad con que se aborda el problema en atención
+a su planteamiento y formulación y a los objetivos perseguidos.
+
+                                   Diseño de la investigación
+        Consiste en el plan o estrategia concebido en términos operativos para
+responder a las interrogantes o enunciados de investigación. Puede comprender fases
+de desarrollo, etapas, materiales y métodos.
+
+                                Población y muestra (opcional)
+
+                                                       11
+        Población se refiere al conjunto de unidades a partir de las cuales se va a
+obtener información y datos para la investigación, por ejemplo: personas,
+instituciones, organizaciones, objetos involucrados en la investigación, entre otros.
+En el caso de las investigaciones cualitativas también se le denomina escenario. La
+muestra se define en caso de que la investigación lo amerite y se refiere a un
+subconjunto del universo o población. Debe describirse la población, el tamaño y
+formas de selección de la muestra indicando el tipo de muestreo seleccionado.
+
+           Técnicas e instrumentos para la recolección de datos (opcional)
+
+        Las técnicas de recolección de datos son los distintos recursos de que se vale
+el investigador para obtener la información. La técnica es el método y los
+instrumentos son los medios materiales para recoger y almacenar la información. Por
+ejemplo: la técnica puede ser la encuesta, la entrevista, la observación y, los
+instrumentos, el cuestionario, guía de entrevista, guía de observación, entre otros.
+
+                Validez de los instrumentos bajo el enfoque cuantitativo
+
+        Consiste en determinar hasta donde los resultados de un instrumento de
+medición, son estables a través del tiempo, cuando este ha sido utilizado varias veces
+con los mismos sujetos y bajo las mismas condiciones de aplicación. Generalmente se
+utiliza la validez de contenido, que consiste en someter el cuestionario a juicio de
+expertos, con el fin de juzgar la relevancia o congruencia de los ítems.
+
+           Confiabilidad de los instrumentos bajo el enfoque cuantitativo
+
+         Consiste en el hecho de que los resultados obtenidos con el instrumento en
+una determinada ocasión, bajo ciertas condiciones, deberían ser los mismos si se
+vuelve a medir el mismo rasgo en condiciones idénticas (replicabilidad).
+
+                Validez de los instrumentos bajo el enfoque cualitativo
+
+                                                       12
+        Consiste en determinar el grado en que los resultados de una investigación
+reflejan una imagen clara y representativa de la realidad.
+
+            Confiabilidad de los instrumentos bajo el enfoque cualitativo
+
+        Consiste en precisar la concordancia lógica y las relaciones que se generan en
+el campo entre la posición del investigador, los informantes seleccionados y el
+contexto o escenarios donde se desarrolla el estudio.
+
+           Técnicas para el análisis e interpretación de datos cuantitativos
+
+        Consiste en describir la organización de la investigación indicando las
+distintas operaciones a las que serán sometidos los datos que se obtengan:
+clasificación, tabulación y codificación. Para el análisis se definirán las técnicas
+lógicas que serán empleadas para descifrar lo que revelan los datos recolectados
+(estadística descriptiva). Por ejemplo: paquetes estadísticos (SPSS, R, SAS, Minitab,
+Atlas Ti o cualquier otro).
+
+            Técnica para el análisis e interpretación de datos cualitativos
+
+        Los datos son entendidos como interacciones, situaciones, fenómenos u
+objetos de la realidad estudiada que el investigador recoge a lo largo de la
+investigación. Según Albert (2007), “el análisis de los datos consiste en un conjunto
+de manipulaciones, transformaciones, operaciones, reflexiones, comprobaciones que
+realizamos sobre los datos con el fin de extraer significado relevante con relación a
+un problema de investigación” (p. 182). La técnica generalmente utilizada es el
+análisis de contenido. Los datos obtenidos se clasifican, codifican, se categorizan e
+interpretan. En ambas técnicas se pueden utilizar gráficos u otras formas de
+representación visual que contribuyan al análisis e interpretación de resultados.
+
+                                          CAPÍTULO IV
+
+                                                       13
+                                         RESULTADOS
+
+        Consiste en la presentación de los hallazgos producto de la investigación.
+Puede incluir el uso de técnicas gráficas adecuadas para mostrar los resultados.
+Además, contempla el análisis y discusión de los mismos, es decir, el desarrollo
+conceptual que relaciona los hallazgos con el planteamiento y formulación del
+problema, los objetivos de la investigación y los fundamentos teóricos formulados.
+
+                                          CAPÍTULO V
+                      CONCLUSIONES Y RECOMENDACIONES
+
+        Las conclusiones consisten en la presentación de enunciados elaborados a
+partir de los resultados de la investigación, el análisis de las implicaciones de la
+misma y su correspondencia con los objetivos formulados. Las recomendaciones se
+ofrecen para otros investigadores en función de las conclusiones redactadas.
+
+                                          CAPÍTULO VI
+                                           PROPUESTA
+        Se refiere a la presentación clara y precisa de la alternativa de solución
+elaborada, producto de los resultados obtenidos. Ejemplos: manuales, planes,
+políticas, programas, estrategias, proyectos, anteproyectos, lineamientos, modelos,
+software, tutoriales, entre otros.
+                                             REFERENCIAS
+
+         Consiste en la elaboración del listado de fuentes utilizadas para abordar la
+investigación; deben ser ordenadas en estricto orden alfabético, teniendo presente las normas
+correspondientes. Incluye por ejemplo: documentos, fuentes impresas, fuentes electrónicas,
+
+                                                       14
+eventos científicos, trabajos de investigación, informes técnicos, textos, tesis, trabajos de
+ascenso, revistas científicas, entre otros.
+
+                                                  ANEXOS
+         Constituye cualquier información adicional que el investigador considere necesaria
+incorporar para profundizar o aclarar el contenido de algunos temas tratados en la
+investigación.
+
+                                             Sección II
+                                        Aspectos Formales
+
+        Esta sección tiene como propósito orientar la elaboración de la propuesta del
+Proyecto Especial de Grado y del proyecto culminado, en cuanto a sus aspectos
+formales. Para ello, se ha estructurado de acuerdo a tres elementos; los aspectos
+formales propiamente dichos, recomendaciones sobre redacción y estilo y normas
+para la presentación impresa del informe de investigación. En conjunto permiten
+organizar la información sustantiva del proyecto y unificar criterios para su
+presentación.
+
+                                            Aspectos Formales
+
+        Los Aspectos Formales, son el conjunto de recomendaciones que configuran
+la forma de escribir y de expresar las ideas, por lo tanto, incluyen los requisitos
+externos, así como aspectos de expresión vinculados al escrito. Están constituidos por
+todos los materiales que facilitan la comprensión de la estructura y el texto, los cuales
+permiten evidenciar la riqueza, extensión y calidad de los elementos utilizados en el
+trabajo. Estos materiales están constituidos por: (a) índice, (b) títulos, (c) tablas y
+figuras, (d) citas, (e) referencias y (f) anexos.
+
+                                                       15
+                                                Índice
+
+        Consiste en una lista o relación ordenada del contenido del texto que incluye
+títulos, capítulos y subdivisiones principales con indicación de las páginas
+correspondientes, cuyo propósito es brindar una visión general del informe. En su
+elaboración debe cuidarse: (a) identificación de los capítulos y divisiones
+principales, (b) inclusión del número de página de cada capítulo y división. El
+siguiente esquema es ilustrativo de la estructura de un índice:
+
+                         ÍNDICE
+
+                                                                         Pág.
+
+Carta de aprobación para presentación ………………………………………………………...... iii
+
+DEDICATORIA………………………………………………………………………………….. iv
+
+AGRADECIMIENTO……………………………………………………………………………                              v
+
+RESUMEN……………………………………………………………………………………...                               vi
+
+INTRODUCCIÓN……………………………………………………………………………….                              1
+
+CAPÍTULO I. EL PROBLEMA
+
+Planteamiento del problema…………………………………………………………......                   3
+
+Objetivos de investigación………………………………………………………………                       6
+
+Justificación de la investigación…………………………………………………………
+
+CAPÍTULO II. FUNDAMENTACIÓN TEÓRICA
+
+Antecedentes……………………………………………………………………………..
+Bases teóricas…………………………………………………………………………...
+Bases legales……………………………………………………………………………
+Definición de términos………………………………………………………………….
+Sistema de hipótesis…………………………………………………………………….
+Sistema de variables……………………..……………..……………………………….
+Operacionalización……………………………………………………………………..
+
+CAPÍTULO III. FUNDAMENTACIÓN METODOLÓGICA
+
+Enfoque paradigmático………………………………………………………………..
+Tipo o nivel de investigación………………………..…………………………………
+Diseño de investigación……………………………………………………………….
+Población y muestra……………..………………………………………………………
+Técnicas e instrumentos para la recolección de información…………………………...
+Validez de los instrumentos.....…………………………………………………………
+Confiabilidad de los instrumentos………………………………………………………
+Técnicas para el análisis e interpretación………………………………………………
+
+CAPÍTULO IV. RESULTADOS
+
+CAPÍTULO V. CONCLUSIONES Y RECOMENDACIONES
+
+                         16
+CAPÍTULO VI. PROPUESTA
+
+REFERENCIAS                                    99
+
+ANEXOS                                         99
+
+        Este índice es referencial, ya que de acuerdo al proyecto de investigación
+realizado, el número de capítulos y la estructura interna de cada uno puede variar.
+
+        De acuerdo al Proyecto Especial de Grado, puede ser necesario el uso de otros
+índices los cuales generalmente, se presentan a continuación del índice general. En
+estos casos se recomienda identificarlo (índice de cuadros, índice de figuras, etc);
+escribir los subtítulos de la información que contienen y a continuación el detalle de
+ésta. En el anexo C, se encuentra un modelo de este tipo de índices.
+
+                        Títulos
+
+        Permiten la identificación de cada una de las partes del trabajo y requieren
+estar acordes a la información que preceden y ordenarse de tal forma que reflejen un
+todo armónico en el informe. Se sugiere ordenarlos jerárquicamente, con el propósito
+de facilitar su presentación y organización. En este instructivo, se considera la
+estructura de títulos y subtítulos del Manual de Trabajos de Grado de la UPEL, para
+lo cual se presenta el conjunto de niveles a utilizar y a continuación las posibles
+combinaciones a trabajar.
+
+                                        CAPÍTULO I
+
+   TÍTULO DEL CAPÍTULO CENTRADO EN MAYÚSCULAS
+                       RESALTADO EN NEGRITA
+
+   Subtítulo de Primer Nivel Centrado en Mayúscula y Minúscula resaltado en Nivel 1
+                                               Negrita
+
+   Subtítulo de Segundo Nivel Centrado en Mayúscula y Minúscula resaltado en Nivel 2
+                                  Cursiva (Itálica) y Negrita
+
+º                                              Nivel 3
+
+         Subtítulo de cuarto nivel alineado al margen izquierdo con sangría a Nivel 4
+cinco espacios en minúscula resaltado en cursiva y negrita. El texto continúa
+
+                                                       17
+luego del punto y seguido del título.
+
+        Cuando se menciona en los subtítulos el uso de mayúscula y minúscula, se
+hace referencia a la primera letra de las palabras, excepto los artículos, conjunciones
+y preposiciones. Los subtítulos deben destacar en el cuerpo del texto, es por ello que
+se deja una línea de espacio (interlineado 1,5) antes y luego de éste para iniciar el
+escrito. Ahora bien, las combinaciones que pueden surgir son las siguientes:
+
+Caso 1: División a un mismo nivel.
+        Ocurre cuando en un capítulo todas las divisiones son de primer nivel y
+
+ninguna de ellas se subdivide. En este caso los subtítulos se escribirán centrados en
+negrita y en mayúscula y minúscula. Ejemplo:
+
+         CAPÍTULO III        Nivel 1
+MARCO METODOLÓGICO           Nivel 1
+
+     Tipo de Investigación
+    Diseño de Investigación
+
+Caso 2: División a dos niveles.
+        Se trabaja cuando las divisiones principales, de nivel 1, presentan
+
+subdivisiones. En este caso se utiliza el nivel 1 para las principales y el nivel 3 para
+las subdivisiones, como se muestra en el ejemplo:
+
+           CAPÍTULO I        Nivel 1
+       EL PROBLEMA           Nivel 1
+Planteamiento del Problema
+ Objetivos de Investigación
+
+18
+General                                                                     Nivel 3
+Específicos                                                                 Nivel 3
+
+Caso 3: División a tres niveles.
+        El uso de tres niveles es necesario cuando las subdivisiones requieren ser
+
+subdivididas (subdivisiones terciarias), por lo que se sugiere utilizar el formato de los
+niveles 1, 3 y 4. Observe el siguiente ejemplo:
+
+                                      CAPÍTULO II                           Nivel 1
+                                  MARCO TEÓRICO                             Nivel 1
+                            Antecedentes de Investigación                   Nivel 3
+                                                                            Nivel 4
+                                      Bases Teóricas
+Título de la Base Teórica
+
+         Subtítulo de la Base Teórica. Se escribe el texto correspondiente
+
+Caso 4: División a cuatro niveles.
+        Se utilizan cuando las subdivisiones de tercer nivel, requieren ser
+
+subdivididas. Es el único caso en el que se utiliza el nivel 2 en los subtítulos. Observe
+el siguiente ejemplo:
+
+                                      CAPÍTULO II
+
+             MARCO TEÓRICO
+
+             Antecedentes de Investigación                                  Nivel 1
+
+                              Bases Teóricas                                Nivel 1
+
+             Título de la Base Teórica                                      Nivel 2
+
+Subtítulo de la Base Teórica                                                Nivel 3
+
+Subdivisión de la Base Teórica. Se continúa el escrito                      Nivel 4
+
+                              19
+        Observe que el uso de los niveles depende del número de subdivisiones a
+considerar en el texto, es por ello importante hacer un esquema o esqueleto de los
+principales títulos y subtítulos que se tienen a fin de seleccionar la forma de
+presentación que corresponde a esa estructura.
+
+                                                Tablas
+
+        Constituyen recursos que apoyan la información expuesta en el informe y
+permiten presentar información en un formato reducido. De acuerdo con el Manual de
+Estilo de Publicaciones de la APA, en su diseño debe considerarse:
+
+    a. Identificación utilizando la palabra Tabla, seguida del número arábigo
+         correspondiente, de acuerdo al orden en que aparecen en el documento.
+
+    b. El título debe ser de corta extensión y significativo de su contenido. Se escribe
+         debajo de la identificación y alineado a la izquierda.
+
+    c. El cuerpo de la tabla, se organiza de acuerdo a la información a presentar. Se
+         recomienda el uso de encabezados que identifiquen los datos.
+
+    d. Solo se utilizan líneas divisorias horizontales para separar el contenido,
+         generalmente, una debajo del título, debajo de los encabezados y al final de la
+         tabla.
+
+    e. Al final de la tabla, es posible el uso de la palabra Nota seguida de la
+         explicación que se considere necesaria para aclarar la información en ella
+         contenida; por ejemplo, explicar siglas, fórmula usada para los cálculos o bien
+         la fuente de donde provienen los datos. En el caso de tablas elaboradas con
+         datos recolectados y procesados por el autor del trabajo, no se colocan notas
+         de autoría, ni de fuente.
+
+    f. Es posible utilizar un tamaño de fuente menor a 12 puntos en las tablas.
+    g. Es necesario referir siempre la tabla dentro del texto y comentarla; referencia
+
+         que se realiza previa a la presentación de la misma.
+
+    A continuación, se presenta una tabla donde se aplicaron los principios ya
+descritos:
+
+                                                       20
+Tabla 1.
+Número de inscritos en el TAP Período Académico 2008-3
+
+Carrera                                                 Pasantía                           PEG
+                                                                                               9
+Arquitectura                                            39
+                                                                                              45
+Ingeniería Agronómica                                   15                                     5
+
+Ingeniería Ambiental                                    26                                    27
+                                                                                              27
+Ingeniería Producción Animal                            18                                    23
+                                                                                              50
+Ingeniería Electrónica                                  46                                    31
+
+Ingeniería Informática                                  28
+
+Ingeniería Industrial                                   99
+
+Ingeniería Mecánica                                     124
+
+Nota. Elaborada con datos suministrados por el Consejo de Planificación de la UNET, 2010.
+
+                              Figuras
+
+        De acuerdo con el Manual de Estilos de la APA, es cualquier tipo de
+ilustración distinta a una tabla, como pueden ser, diagramas, gráficas, fotografías,
+planos, dibujos, mapas, entre otros. Con el propósito de incorporarlas en el desarrollo
+del proyecto, se recomienda:
+
+    a. Identificarla con la palabra Figura seguida del número arábigo consecutivo
+         que corresponda, de acuerdo al orden en que aparecen en el texto.
+
+    b. El título debe ser breve (no mayor a 12 palabras) y representativo de la
+         información que contiene.
+
+    c. El título se escribe luego de la identificación y separado de ésta por punto y
+         seguido.
+
+    d. La identificación y el título se escriben debajo de la figura, en negrita,
+         alineado a la izquierda.
+
+    e. Luego de la identificación y título de la figura, después del punto y seguido se
+         escribe la información sobre la fuente (en el caso de figuras tomadas de otros
+         autores); la explicación de símbolos, abreviaturas o siglas y cualquier
+         aclaratoria que se considere necesaria para facilitar la interpretación del
+         gráfico.
+
+                              21
+h. Es necesario referir la figura dentro del texto y comentarla; referencia que se
+    realiza previa a la presentación de la misma.
+
+f. Se recomienda procurar nitidez, claridad y legibilidad en las figuras
+    incorporadas.
+
+La siguiente figura es ejemplo de lo expuesto:
+
+              Relación de inscritos por modalidad TAP
+                      Período Académico 2008-3
+
+              140
+              120
+N° inscritos  100
+              80
+              60
+              40
+              20
+              0
+                   Pasantía
+
+                   PEG
+
+                                                           Carrera
+
+Figura 1. Número de inscritos en el TAP de acuerdo a la modalidad. Elaborado con datos
+suministrados por el Consejo de Planificación de la UNET, 2010.
+
+                                                 Citas
+
+        Consiste en la mención de las ideas expuestas por autores consultados, que se
+considera necesario incorporar al texto del trabajo. Su uso permite cumplir con el
+requisito de honestidad intelectual. Para ello se sugiere identificar el autor, indicando
+su apellido y el año de la publicación que se está referenciando. Existen dos
+modalidades para citar los autores consultados, durante el proceso de investigación,
+las cuales se describen a continuación.
+
+Citas Textuales.
+
+                                                       22
+        Consisten en transcribir exactamente las ideas del autor consultado, a partir de
+dos formas diferentes, dependiendo de la extensión del párrafo o texto a citar.
+
+        Citas Textuales mayores a 40 palabras. Se escriben en párrafo separado, con
+sangría de cinco (5) espacios en ambos márgenes, sin comillas y con interlineado
+sencillo, de tal forma que sea posible destacarla del resto del texto. El Manual de la
+UPEL recomienda evitar el uso de citas superiores a quinientas palabras (500), sin
+permiso del autor, a menos que se trate de un análisis crítico del trabajo. Ejemplo:
+
+      Pressman (2005), afirma que es importante crear software de calidad, de tal
+  manera que se cumpla el propósito que dio lugar al diseño y elaboración del
+  mismo. Así, considera que la definición de calidad, aplicada al desarrollo de
+  software, consiste en el
+
+      cumplimiento de los requisitos de funcionalidad y desempeño
+      explícitamente establecidos, de los estándares de desarrollo explícitamente
+      documentados y de las características implícitas que se esperan de todo
+      software desarrollado profesionalmente. (p. 463)
+
+      Como se observa, el autor citado, destaca en su definición tres aspectos
+  esenciales: (a) se deben cumplir los requisitos de funcionalidad y diseño
+
+        Citas Textuales menores a 40 palabras. Se escriben como parte del párrafo,
+se encierran entre comillas dobles y con el mismo interlineado que se tiene para el
+texto del escrito. Se recomienda variar la redacción de las citas, haciendo énfasis en el
+año, contenido o autor, de acuerdo con la estructura del párrafo y el estilo personal de
+quien escribe. Ejemplos:
+
+  Para reafirmar lo expuesto hasta ahora, se tiene que: “las escalas de estimación, -
+  también llamadas escalas de apreciación y rating scales- se utilizan para
+  cuantificar las impresiones que se obtienen a partir de la observación” (Padilla,
+  2002, p. 98).
+
+ Estas consideraciones, se apoyan en lo expuesto por Celman (1998) quien afirma:
+ “La información proveniente de distintos procedimientos es el material a partir del
+ cual se inicia, realmente, el proceso evalu23ativo” (p. 50)
+        En los dos ejemplos, destacan como elementos básicos de la cita, el apellido
+del autor, año de la publicación, comillas para incorporar sus palabras y número de
+página donde se encuentra la frase u oración citada. Algunas recomendaciones
+adicionales:
+
+       1. Si alguna palabra o signo en la cita textual confunde al lector o incluye
+            errores ortográficos, se añade entre paréntesis la palabra (sic).
+
+       2. Use tres puntos suspensivos entre corchetes [...] para indicar la omisión de
+            una parte del texto que se cita.
+
+       3. Cuando cite, proporcione siempre el autor, el año y la página específica del
+            texto citado e incluya la referencia completa en la lista de referencias.
+
+Citas Parafraseadas
+
+        Pueden encontrarse bajo la denominación de citas de referencia o citas
+indirectas. En cualquiera de los casos, se trata de la interpretación realizada sobre las
+ideas de otro autor, lo cual se expresa en palabras propias, con el estilo personal de
+quien escribe, respetando lo esencial del aporte del autor consultado. La cita se
+escribe en el cuerpo del texto, sin comillas, como parte natural del escrito. Para
+identificar el autor citado, se puede escribir el apellido del autor y año de la
+publicación, sin número de página, al final del párrafo entre paréntesis; o es posible
+identificar el autor antes de presentar el texto parafraseado. Ejemplos:
+
+    Adicionalmente, este modelo permite la evaluación de la calidad a través de la
+    comparación entre los requisitos establecidos y el producto realmente
+    desarrollado, considerando el punto de vista del usuario y el punto de vista del
+    producto software (De Antonio, s.f.).
+
+    Con el fin de precisar el conjunto de tareas, que se considera están vinculadas a
+    él, se toma en cuenta la propuesta de Stephenson y Yorke (citados en Villar y
+    Alegre, 2004), quienes señalan que el rango de competencias para un egresado
+    universitario, está constituido por los s2ig4uientes aspectos:
+        En la última cita se observa la consulta a una fuente secundaria; lo cual
+significa que lo propuesto por los autores Stephenson y Yorke, se obtuvo a través de
+la obra o escrito de Villar y Alegre, éstos últimos son los que aparecerán en la lista de
+referencias.
+
+Citas de Fuentes Electrónicas y de Comunicaciones Personales
+
+        En Internet es posible encontrar páginas web, sitios web, portales y otros
+espacios digitales que facilitan información, la cual puede ser citada en un informe de
+investigación, siempre que provenga de una fuente confiable. Es frecuente observar
+que algunas fuentes, no cuentan con un número de página al cual hacer referencia en
+el caso de citas textuales, lo cual se sustituye por el número de párrafo, según el
+Manual de la APA. Ejemplo: López (1998, párr. 3).
+
+        Las comunicaciones personales constituyen otra fuente de información posible
+de utilizar en las citas del proyecto de investigación. Están constituidas por material
+recopilado en conferencias, ponencias, entrevistas, correo electrónico o
+comunicaciones verbales. En este caso, se cita el emisor a través de apellido e inicial
+del nombre, medio utilizado y la fecha de la comunicación, en el formato día, mes,
+año. Ejemplo: (M. Hernández, comunicación personal, correo electrónico, 25 de
+febrero, 2010). En este caso, no aparece referencia al emisor en la lista de referencias.
+
+        Algunas recomendaciones finales relacionadas con las citas, son las
+siguientes:
+
+       1. Todas las fuentes que se citen (impresas, electrónicas o audiovisuales),
+            incluidas las de tipo legal, documentos no publicados o de restringida
+            circulación, deben aparecer en la lista de referencias.
+
+       2. Cuando se utiliza una fuente con autoría de tres a cinco autores, es
+            recomendable citarlos a todos la primera vez y la(s) siguiente(s) incluir
+            únicamente el primer apellido seguido de “et al.” y el año de publicación.
+
+                                                       25
+       3. Para aquellos documentos o fuentes que no tienen fecha de publicación
+            escribir dentro del paréntesis (s.f.), que significa sin fecha.
+
+                                            Referencias
+
+        Es la relación de documentos consultados a través de diferentes medios y
+cuyos autores se han citado en el desarrollo del informe. En su elaboración debe
+procurarse seguir un orden lógico, donde aparezcan: identificación del autor (primer
+apellido e inicial del primer nombre), año, título, lugar de edición, editorial o para
+citas de fuentes diferentes a las bibliográficas, datos que permitan la ubicación exacta
+de la misma, como dirección electrónica del documento, fecha de consulta, entre
+otros. Los elementos de forma que permiten escribir una referencia son:
+
+    1. Transcripción de la primera línea sin sangría.
+    2. Si se ocupa una segunda línea, ésta y las subsiguientes deberán tener sangría
+
+         francesa (lo que significa que las líneas siguientes aparecen con sangría,
+         respecto a la primera).
+    3. El título del libro o el nombre del artículo, se presenta en cursiva.
+    4. Se utiliza el interlineado sencillo entre las líneas de una referencia y dos
+         espacios entre una referencia y otra.
+
+    Algunas recomendaciones generales que permiten organizar la lista de
+referencias, son las siguientes:
+
+    1. El listado de referencias se ordena alfabéticamente tomando como referencia
+         el apellido del primer autor.
+
+    2. Las fuentes secundarias y conversaciones personales no se incluyen en la lista
+         de referencias.
+
+    3. Las referencias que se citan en el texto deben aparecer en la lista de
+         referencias y viceversa.
+
+    4. Incluir sólo aquellas fuentes que se utilizaron en la investigación y
+         preparación del trabajo.
+
+                                                       26
+Es posible el uso de abreviaturas de términos comunes en la lista de referencias.
+
+A continuación, las más usadas:
+
+cap.          capítulo
+ed.           edición
+Ed. (Eds.)    Editor (Editores)
+ed. rev.      edición revisada
+2a. ed.       segunda edición
+s. f.         sin fecha
+p. (pp.)      página (páginas)
+Vol. (vols.)  volumen (volúmenes)
+No.           número
+Trad.         Traductor(es)
+Inf. téc.     Informe técnico
+Suppl.        Suplemento
+
+Clasificación de las referencias
+
+        A continuación se presentan las referencias más usadas, clasificadas de
+
+acuerdo a la fuente de donde provienen, con especificación de los elementos a
+
+incorporar y un ejemplo de construcción.
+
+Referencias de Fuentes Impresas
+
+ 1. Libros
+     Autor(es). (año). Título en cursiva. Ciudad: Editorial
+
+Ejemplo:
+Palella, S. y Martins, F. (2006). Metodología de la Investigación Cuantitativa. Caracas: FEDUPEL
+ 2. Artículos en publicaciones periódicas
+
+     Autor(es). (año, mes). Título. Nombre completo de la publicación en cursiva, número del
+     volumen o del tomo (número de la revista), páginas en las que se encuentra el artículo.
+
+Ejemplo:
+Fumo, N. y Villamizar, P. (2007, enero-junio). Variables de medición del impacto socio económico
+
+    de la implementación de Sistemas Fotovoltaicos Autónomos. Revista Científica UNET, Vol.
+    19(1), 1-6.
+ 3. Artículo o capítulos en libros compilados u obras colectivas
+     Autor(es). (año). Título del capítulo. En Autor (responsable de la compilación) (Comp., Coord. O
+     Dir.). Título de la obra en cursiva (Páginas donde se encuentra el capítulo). Ciudad: Editorial.
+
+Ejemplo:
+Celman, S. (1998). ¿Es posible mejorar la evaluación y transformarla en herramienta de
+
+    conocimiento?. En Camilloni, A., Celman, S., Litwin, E. y P. de M., M. (Comps.). La evaluación
+    de los aprendizajes en el debate didáctico contemporáneo. Buenos Aires: Paidós.
+ 4. Documentos y reportes técnicos:
+
+                                                       27
+     Autor(es). (año). Título en cursiva. Ciudad: editorial
+
+Ejemplo:
+Universidad Pedagógica Experimental Libertador, Vicerrectorado de Investigación y Postgrado.
+
+    (1986). La evaluación de los programas de postgrado de los institutos universitarios de formación
+    docente. Caracas: Autor.
+ 5. Ponencias y publicaciones derivadas de eventos:
+
+      Autor(es). (año, mes). Título en cursiva. Modalidad del aporte. Nombre del evento. Lugar
+
+Ejemplo:
+Vasconi, T. (1980, Noviembre). Educación, control social y poder político. Ponencia presentada en el
+
+    Seminario Internacional Problemas de la Educación Contemporánea, Caracas.
+
+ 6. Trabajos y tesis de grado:
+      Autor(es). (año). Título en cursiva. Referencia al tipo de trabajo, mención de no publicado,
+      institución ante la cual se presentó, ciudad (país si la ciudad no es muy conocida).
+
+Ejemplo:
+Gutiérrez B., L. (1994). La matemática escolarizada: ¿ La ciencia transformada en dogma?: Un
+
+    estudio etnográfico realizado en aulas universitarias. Tesis de doctorado no publicada,
+    Universidad Nacional Experimental Simón Rodríguez, Caracas.
+ 7. Trabajos de ascensos en el escalafón docente y similares:
+
+      Autor(es). (año). Título en cursiva. Referencia al tipo de trabajo, mención de no publicado,
+      institución ante la cual se presentó, ciudad (país si la ciudad no es muy conocida).
+
+Ejemplo:
+Mendoza de G., Y. (1992). La creatividad y la educación liberadora. Trabajo de ascenso no
+
+    publicado, Universidad Pedagógica Experimental Libertador, Instituto Pedagógico Rural El
+    Mácaro, Turmero.
+ 8. Reseñas divulgativas y revisiones críticas sobre el trabajo de otros autores:
+
+      Autor(es). (año). Título del texto si se tiene. [Revisión/reseña de título de la obra] Datos de
+      publicación en revista: título revista en cursiva, volumen (numero), páginas donde está la reseña.
+Ejemplo:
+Muro, X. (1995). [Reseña del libro El proceso de convertirse en universidad, de G. Picón].
+    Investigación y Postgrado, 10(1) ,272-275.
+     9. Entrevistas publicadas en medios impresos:
+      Autor(es). (fecha). Título del artículo. [Entrevista a (identificación del entrevistado)] Datos de
+      publicación en revista: título revista en cursiva, volumen (numero), páginas donde se encuentra
+      la entrevista.
+
+Ejemplo:
+Santodomingo, R. (1998, Enero 27). Los subsidios son obligación del Estado. [Entrevista a Mons. J.
+
+    Sánchez Porras]. Primicia, 12, 5-7.
+     10. Fuentes tipo legal:
+     Título (sin cursiva). Fecha. Datos de publicación
+
+     Ejemplo:
+Normas de Estudio, Evaluación y Rendimiento Estudiantil, (Resolución CU.064.2009). Universidad
+
+    Nacional Experimental del Táchira, Consejo Universitario. (2009, Septiembre 18).
+     11. Folletos, boletines, hojas informativas y similares:
+
+          Título de la publicación (año, mes) [naturaleza de la publicación]
+
+Ejemplo:
+Campus. (2010, julio). [Órgano informativo de la Universidad Nacional Experimental del Táchira],
+
+                                                       28
+    año 4, número 1.
+
+     12. Manuscritos de trabajos no publicados:
+          Autor (año). Título. Trabajo no publicado. Institución.
+
+Ejemplo:
+Roa, J. I. (2009). Visión Estratégica de las competencias. Trabajo no publicado. Universidad
+
+    Nacional Experimental del Táchira, Coordinación Académica de Desarrollo Curricular. San
+    Cristóbal.
+
+     13. Datos no publicados:
+          Autor(es). (año). [Descripción de la información]. Datos no publicados
+
+Ejemplo:
+Universidad Nacional Experimental del Táchira, Vicerrectorado Académico, Coordinación
+
+    Académica de Desarrollo Curricular (2009). [Informe de gestión febrero - agosto 2009]. Datos no
+    publicados.
+
+     14. Comunicaciones públicas u oficiales:
+          Autor(es) o Institución (Fecha). [Descripción de la comunicación]. Datos de publicación.
+
+Cárdenas, A. L. (1998, Enero 12). [Comunicación sobre la enseñanza religiosa en las escuelas].
+    Caracas: Ministerio de Educación.
+
+     15. Comunicaciones y entrevistas personales. No se registran en la lista de referencias pero,
+          si el autor lo permite, se pueden citar en el texto con este formato:
+
+                             (persona que suministra la información, medio, fecha)
+Ejemplo:
+
+     (C. Castellanos, entrevista personal, Enero 18, 2008)
+
+Referencias Electrónicas
+
+ 1. Libros:
+      Autor. (año). Título [Libro en línea]. Datos de publicación si el libro ya existía en forma impresa.
+      Disponible: Dirección electrónica [Consulta: Año, Mes y día].
+
+  Ejemplo:
+Guzmán, M. de. (1993). Tendencias innovadoras en educación matemática [Libro en línea].
+
+    Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura: Editorial
+    Popular. Disponible: http://www.oei.org.co/oeivirt/edumat.ht [Consulta: 1997, Noviembre 25]
+ 2. Artículos en publicaciones periódicas:
+
+      Autor. (año). Título del artículo. Título de la publicación [Revista en Línea], Volumen(número),
+      páginas si existen. Disponible: dirección electrónica [Consulta: Año, Mes y día].
+
+  Ejemplo:
+Martínez M., M. (1995). La educación moral: una necesidad en las sociedades plurales y democráticas.
+
+    Revista Iberoamericana de Educación [Revista en línea], 7. Disponible:
+    http://www.oei.org.co/oeivirt/rie07a01.htm [Consulta: 1997, Noviembre 6].
+ 3. Artículos o capítulos en libros compilados u obras colectivas:
+
+      Autor. (año). Título del artículo. En compilador, Título de la obra [Libro en línea]. Datos de
+      publicación si el libro ya existía en forma impresa. Disponible: dirección electrónica [Consulta:
+
+                                                       29
+      Año, Mes y día].
+
+  Ejemplo:
+Fullan, M. G. (1994). Coordinating top-down and bottom-up strategies for educational reform. En R. J.
+
+    Anson (Comp.), Systemic reform: Perspectives on personalizing education [Libro en línea]. US
+    Department of Education, Oficce of Educational Research and Improvement, Washintong, DC.
+    Disponible: http://www.ed.gov/pubs/EdReformStudies/SysReforms/anson1.htm [Consulta: 1997,
+    Noviembre 15].
+ 4. Documentos y reportes técnicos:
+
+      Autor. (año). Título del documento [Documento en línea]. Datos del ente que publica. Disponible:
+      dirección electrónica [Consulta: Año, Mes y día].
+
+Ejemplo:
+Ministerio de Hacienda, Oficina de Programación y Análisis Macroeconómico. (1997). Desempeño de
+
+    la economía venezolana en 1996 [Documento en línea]. Disponible:
+    http://www.analitica.com./bit.htm [Consulta: 1997, Noviembre 15].
+ 5. Ponencias y presentaciones en eventos:
+
+      Autor. (año, mes). Título del documento [Documento en línea]. Modalidad del aporte, nombre del
+      evento y lugar. Disponible: dirección electrónica [Consulta: Año, Mes y día].
+
+Ejemplo:
+Alarcón, C. (2010, mayo). Experiencia de la CAN en la construcción de esquemas de promoción del
+
+    desarrollo de las MIPYMES. [Presentación en línea]. Ponencia presentada en el Foro ALADI:
+    Alianzas público- privadas para la internacionalización de las MIPYMES. Intercambio de
+    experiencias y mejores prácticas. Disponible:
+    http://www.iberpymeonline.org/Eventos2010/ALADIMayo/can.pdf [Consulta: 2010, junio 28].
+ 6. Trabajos de grado, ascenso y similares:
+
+      Autor. (año). Título del trabajo [Resumen en línea]. Trabajo de … no publicado, Universidad…
+      Disponible: dirección electrónica [Consulta: Año, Mes y día].
+
+Ejemplo:
+Duque, J. (2005). El Dictado como medio de evaluación de la ortografía en función del mejoramiento
+
+    de la escritura. [Documento en línea]. Trabajo de Ascenso presentado para optar a la categoría de
+    Agregado, Universidad de los Andes, Núcleo Táchira. Disponible: http://servidor-
+    opsu.tach.ula.ve/ascen_acro/duque_j/asc_duq_dicta.htm [Consulta: 2010, abril 19].
+ 7. Reseñas divulgativas y revisiones críticas sobre trabajos de otros autores:
+
+      Autor. (año) Titulo si existe [Revisión o Reseña de obra, de autor]. Título de la publicación
+      [Revista o Periódico en línea], Volumen (número), páginas si existen. Disponible: dirección
+      electrónica [Consulta: Año, Mes y día].
+
+Ejemplo:
+Romero, L. (2003). Reseña de Gestión Ambiental y Planificación del Desarrollo de Alfonso
+
+    Avellaneda Cusarla. [Reseña de la obra Gestión Ambiental y Planificación del Desarrollo de
+    Avellaneda, A.]. FERMENTUM. Revista venezolana de Sociología y Antropología. [Revista en
+    línea], Volumen 13, número 036. Disponible: http://redalyc.uaemex.mx/pdf/705/70503612.pdf
+    [Consulta: 2009, Febrero 22].
+ 8. Trabajos no publicados en medios impresos:
+
+      Autor. (año, mes). Título [Documento en línea]. Institución, localidad si existe información.
+      Disponible: dirección electrónica [Consulta: Año, Mes y día].
+
+Ejemplo:
+EDUTEKA (2010, mayo). Uso educativo de los Wikis [Documento en línea]. Disponible:
+
+    http://www.eduteka.org/WikisEducacion.php [Consulta 2010, junio 23].
+
+                                                       30
+ 9. Bases de datos y estadísticas:
+      Autor del material que se cita. (fecha del material). Título del material [Datos en línea]. En
+      nombre de la Base de Datos de ser el caso. Disponible: dirección electrónica [Consulta: Año,
+      Mes y día].
+
+Ejemplo:
+OCEI. (1998, Enero 15). Resumen estadístico: Población total por sexo, 1990-2010 [Datos en línea].
+
+    En OCEI: Proyecciones de población. Disponible:
+    http://www.ocei.gov.ve/proypob/proyec/eppc1.htm [Consulta: 1998, Febrero 20].
+ 10. Fuentes de tipo legal:
+
+      Título del instrumento y nombre del país u organismo que lo promulga (Nº. si corresponde).
+      (Año, Mes y día de aprobación). [Transcripción en línea]. Disponible: dirección electrónica
+      [Consulta: Año. Mes y día].
+
+Ejemplo:
+Ley Orgánica de Educación (Nº 5929, extraordinario). (2009, Agosto 15). [Transcripción en línea].
+
+    Disponible:
+    http://planipolis.iiep.unesco.org/upload/Venezuela/Venezuela_Ley_Organica_Educacion.pdf
+    [Consulta: 2010, junio 25].
+ 11. Sitios de información:
+
+      Nombre de la organización. (año). [Página Web o Menú gopher en línea]. Disponible: dirección
+      electrónica [Consulta: Año, Mes y día].
+
+Ejemplo:
+Universidad Nacional Experimental del Táchira. (2010). [Página Web en línea]. Disponible:
+
+    http://www.unet.edu.ve [Consulta: 2010, junio 21].
+ 12. Lista de discusión, grupos de noticias y boletines de mensajes:
+
+      Autor. (Año, Mes y día). Título del mensaje o documento [Discusión o Documento en línea].
+      Disponible: dirección electrónica Nombre del grupo Número de registro del mensaje o
+      documento y dirección de correo electrónico si existen [Consulta: Año, Mes y día].
+
+Ejemplo:
+Trelles, R. (1997, Noviembre 12). Humanismo en la educación [Discusión en línea]. Disponible:
+
+    Usenet: MHEC@compuserve.com Grupo soc.culture.colombia Documento Nº
+    34692394.219150@news.mia.bellsouth.net [Consulta: 1997, Noviembre 19].
+ 13. Transcripciones de comunicaciones sincrónicas colectivas:
+
+      Autor (Función). (Fecha). Título del evento [Tipo de evento. Transcripción en línea] En dirección
+      electrónica de acceso al evento si se tiene la información. Disponible: dirección electrónica donde
+      se encuentra almacenada la transcripción [Consulta: Año, Mes y día].
+
+Ejemplo:
+Vargas, G. (2010, enero). Las Políticas de Evaluación y Acreditación de la Calidad de la Educación
+
+    Superior en América Latina y el Caribe: una nueva agenda para la integración regional. [V Taller
+    Internacional. Transcripción en línea] Disponible:
+    http://www.iesalc.unesco.org.ve/index.php?option=com_content&view=article&id=1038%3A&cat
+    id=118%3Adebate-&Itemid=494&lang=es [Consulta: 2010, julio 3]
+ 14. Transcripciones y grabaciones de eventos transmitidos por otros medios de comunicación:
+
+      Autor (Función). (Fecha). Título [Medio de transmisión. Transcripción o Grabación en línea
+      según caso]. Ciudad: Organización. Disponible: dirección electrónica [Consulta: Año, Mes y día].
+
+Ejemplo:
+Granier, M. (Productor y Entrevistador). (1997, Julio 21). Primer Plano: Entrevista a A. L. Cárdenas,
+
+    Ministro de Educación [Programa de TV. Transcripción en línea]. Caracas: Radio Caracas
+    Televisión. Disponible: http://www.etheron.net/PrimerPlano/archivos.htm [Consulta: 1998, Enero
+    25].
+
+                                                       31
+ 15. Archivos de video y de audio:
+      Autor o ente propietario o que patrocina el material (Función si es el caso). (Fecha). Título
+      [Video o Audio o Imagen en línea según corresponda]. Datos de edición si existen. Disponible:
+      dirección electrónica [Consulta: Año, Mes y día].
+
+Ejemplo:
+Red en línea de Instituciones Sociales de América Latina y el Caribe (RISALC). (2009, julio 23-24).
+
+    Respuestas Gubernamentales frente a la Crisis Internacional: las políticas laborales, fiscales y los
+    sistemas de protección social [Video en línea]. Disponible:
+    http://www.risalc.org:9090/portal/videos/ficha/?id=169 [Consulta: 2010, julio 4]
+ 16. Programas de Computación:
+
+      Autor. (Fecha). Título. [Programa de Computación en Línea]. Localización y nombre de la
+      institución que lo distribuye si se conoce. Disponible: dirección electrónica [Consulta: Año, mes
+      y día.
+
+Ejemplo:
+Softonic International. (2006, octubre 2). Any Video Converter. [Programa de computación en línea].
+
+    Disponible: http://any-video-converter.softonic.com/ [Consulta: 2010, junio 3]
+ 17. Documentos obtenidos por servicio de correo electrónico:
+
+      Autor. (año). Título. [Documento en Línea]. Disponible: dirección de correo electrónico.
+
+Ejemplo:
+Ribera, J. (1997). Multiple intelligence [Documento en línea]. Disponible:
+
+    http//ecenetl@postoffice.cso.uiuc.edu
+ 18. Comunicaciones personales por servicio de correo electrónico
+
+      No se registra en la lista de referencias pero, si el autor lo permite se puede citar así:
+
+                      (C. Castellanos, comunicación personal, correo-e, Enero 10, 1998)
+
+Referencias de Fuentes Audiovisuales
+
+     1. Producciones en formatos de película cinematográfica y de video:
+
+Siso, R. (Director). (1998). El compromiso [Película]. Mérida, Venezuela: Trova Cinematografía /
+  Universidad de los Andes, Cine ULA.
+     2. Producciones en formatos de audio:
+
+Costa, P. (Conferencista). (1998). Personality, continuity and changes of adult life (Grabación en
+    Casette No. 207-433-88A-B). Washington, DC: American Psychological Association.
+     3. Programas y eventos transmitidos por medios de telecomunicación:
+
+Consejo Nacional de Educación (Producto). (1998, Febrero 7). Mensaje Educativo: Educación y
+    Estado [Programa de TV]. Caracas: Venezolana de Televisión.
+     4. Representaciones y exposiciones públicas:
+
+Teatro Universitario para Niños El Chichón, Carías, A. y Castillo A. (Directores). (1998, Febrero 6).
+    Acto de fin de curso [Representación Teatral]. Caracas: Universidad Central de Venezuela.
+     5. Grabaciones de conferencias, ponencias y eventos en general:
+
+González, F. (1998, Enero 28) planteamientos pedagógicos en valores [Grabación en Video de la
+    Conferencia Ofrecida en el Seminario Internacional “Paulo Freire: Un maestro en Valores”,
+    Caracas].
+
+                                                       32
+     6. Fotografía y representaciones gráficas:
+Pillsbury, H. y Johns, M. (1998). Sinusitis [Serie de 54 Diapositivas con guía]. Washington, DC:
+
+  American Academy of Otolaryngology.
+     7. Objetivos artísticos, tecnológicos y culturales:
+
+Van, V. (1998). Entrance to the public gardens in Arles [Pintura]. New York: Metropolitan Museum
+    of Art.
+     8. Comunicaciones verbales y entrevistas personales. No se registran en la lista de
+          referencias pero, si el autor lo permite, se pueden citar en el texto así:
+          (C. Castellanos, conversación telefónica, enero 18, 1998)
+
+                                               Anexos
+
+        Consiste en un contenido o información adicional que se coloca al final del
+informe de investigación y sirve para complementar lo expuesto en el desarrollo del
+trabajo. En su uso, debe procurarse: (a) identificarlos de acuerdo a la información que
+contienen, (c) ordenarlos siguiendo un criterio particular, por ejemplo en orden
+alfabético. Las siguientes sugerencias permiten su organización:
+
+    a. Identificar con la palabra Anexo seguida de la letra que corresponda. Es
+         posible utilizar letras para las categorías y la combinación letra - número para
+         identificar el anexo de una determinada categoría. Ejemplo:
+                          Anexo A
+                 Páginas Preliminares
+                 …
+                          [Anexo A-1]
+                           [Portada]
+
+    b. El título debe ser breve (no mayor a 12 palabras) y representativo de la
+         información que contiene el anexo.
+
+    c. La identificación y el título descriptivo del anexo, se escribe entre corchetes.
+    d. Es necesario referenciar el anexo dentro del texto.
+
+                                                       33
+                                        Redacción y Estilo
+
+        Constituyen normas generales de presentación en el informe y determinan la
+claridad en la exposición de ideas, además del uso correcto de la ortografía y
+gramática del lenguaje. Se recomienda lo siguiente para obtener un informe de
+investigación, que responda a las características de los estudios universitarios:
+
+Redacción.
+
+        Entendida como el procedimiento que permite expresar por escrito una idea o
+una serie de hechos, acordados o pensados con anterioridad. Esto significa que en lo
+escrito se imprime el estilo particular de quien escribe y se evidencia en la forma
+como comunica sus ideas, conceptos, conocimiento. Un buen nivel de redacción
+requiere que se preste atención a:
+
+   1. Claridad en las ideas expresadas, de tal manera que al realizar la lectura se
+       comprenda la idea a transmitir.
+
+   2. Precisión, al utilizar los conceptos integralmente, evitando el uso de frases
+       trilladas que sólo agregan volumen al escrito.
+
+   3. Construcción de frases de acuerdo a las reglas gramaticales: medir el uso de
+       gerundios, aplicar reglas de sintaxis, cuidar la ortografía.
+
+   4. Concisión al expresar los pensamientos, ideas y conceptos, con el menor
+       número de palabras.
+
+   5. Sencillez al redactar con naturalidad, a través del uso de frases simples, sin
+       rebuscamientos o tecnicismos excesivos.
+
+   6. Adecuado uso de los tiempos verbales, al evitar combinaciones de presente,
+       pasado y futuro.
+
+   7. Uso de la tercera persona del singular.
+
+                                                       34
+Estilo y Ortografía.
+
+        El estilo, es el conjunto de características de redacción que afectan y dan
+unicidad al texto, constituye una manera de escribir que surge de la esencia de la
+persona que escribe. Su flexibilidad natural dificulta establecer normas precisas para
+su uso, sin embargo es posible delinear algunas recomendaciones, como las
+siguientes: (a) uso de expresiones formales en lugar de expresiones coloquiales, como
+“es un bonita oportunidad para…” (b) evitar escribir cerca palabras iguales o
+similares en sonido (redundancia), ejemplo: “la muestra seleccionada muestra que
+…” (c) evitar el uso de palabras tomadas de otro idioma, en su lugar se puede utilizar
+la expresión castellana, si existe.
+
+        Adicionalmente, es necesario considerar lo relacionado con la ortografía,
+entendida ésta como el conjunto de normas que regulan la escritura de una lengua y
+permiten escribir correctamente. Abarca lo relacionado con: (a) uso adecuado de
+mayúsculas, (b) uso de acentos en las palabras que lo ameritan, (c) uso correcto de los
+signos de puntuación, (d) uso correcto de los verbos en oraciones y (e) uso correcto
+de las abreviaturas, símbolos, siglas y acrónimos.
+
+                           Normas para la Presentación Impresa
+
+        Las normas para la presentación impresa del Proyecto de Investigación, se
+apoyan en lo expuesto en el Manual de Trabajos de Grado de la UPEL, así como en la
+propuesta de Muñoz (1998) y se describen de acuerdo a los siguientes apartados.
+
+Tamaño del Papel
+
+        El papel a utilizar es de color blanco, tamaño carta, base 20. Las hojas deben
+presentar pulcritud, sin rayas y sin perforaciones. Las tablas y figuras se presentarán
+en tamaño carta. En caso de tamaños adicionales, se plegarán hasta lograr el tamaño
+ya indicado.
+
+                                                       35
+Márgenes
+
+        El margen izquierdo será de 4 centímetros a fin de facilitar la encuadernación
+del proyecto. Los lados restantes, derecho, superior e inferior tendrán 3 centímetros.
+
+Tipo y Tamaño de fuente
+
+        El texto se escribe en Times New Roman de 12 puntos. Para las notas al pie
+de página o al final del capítulo es posible utilizar un tamaño menor, el cual no debe
+ser menor de 10 puntos. En el caso de los anexos y las leyendas de cuadros y figuras,
+se utilizarán los tipos y tamaños de letras que seleccione el autor del proyecto,
+cuidando de garantizar la legibilidad.
+
+Párrafos y Sangrías
+
+    1. Se utilizará interlineado de espacio y medio (1,5 cm) para el desarrollo del
+         escrito, en cada una de sus secciones o partes.
+
+    2. En las citas textuales mayores a cuarenta palabras, en las referencias, en la
+         descripción de cuadros y en la descripción de figuras, se utilizará el
+         interlineado sencillo, es decir, a un espacio.
+
+    3. Entre párrafos no se deja espacio adicional.
+    4. La extensión de los párrafos oscila entre mínimo 5 y máximo 10 líneas.
+    5. Las referencias se separan entre sí, utilizando espacio y medio.
+    6. En los títulos de los capítulos y secciones se dejan dos espacios antes y
+
+         después, a fin de destacarlo.
+    7. Los capítulos, la lista de referencias y los anexos es necesario que inicien en
+
+         una página nueva.
+    8. Para enumerar varios elementos dentro de un párrafo, se utilizan letras
+
+         minúsculas y entre paréntesis así: (a), (b), (c). Si la lista consiste en ideas
+         expresadas en párrafos separados, se usan números arábigos (1,2,3,4,…)
+         seguidos por punto, sin paréntesis.
+
+                                                       36
+Paginación
+
+        La numeración de las páginas atiende a si se trata de las preliminares o del
+cuerpo del documento. En el caso de las páginas preliminares, se numeran con cifras
+romanas minúsculas, en forma consecutiva, iniciando con la portada, aún cuando en
+ella no se escribe en forma expresa el número. El cuerpo del documento inicia con la
+introducción, la cual lleva el número arábigo 1. A partir de ella se numeran las
+siguientes en forma consecutiva.
+
+        Los números de todas las páginas se colocarán centrados en la parte inferior,
+incluyendo las páginas de inicio de capítulo o de secciones, así como las que
+contienen tablas y figuras.
+
+Encuadernado y entrega de ejemplares
+        El Artículo 35 de las Normas para el Trabajo de Aplicación Profesional en la
+
+UNET, establece que una vez aprobado el Proyecto el autor(es) deberá consignar dos
+ejemplares empastados en percalina color azul, destinados a la Biblioteca y al Tutor.
+Así mismo, seis (6) respaldos digitales distribuidos en el Jurado, Departamento y
+Biblioteca. De acuerdo con lo expuesto, el anexo D tiene el modelo para el
+encuadernado y el anexo E el modelo para la carátula y los Discos Compactos.
+
+Material Estadístico y Matemático
+
+        De acuerdo con Martínez, Miguez y Rey (2007), para realizar las expresiones
+matemáticas debe utilizarse un editor de ecuaciones. Las recomendaciones para
+construirlas son las siguientes:
+
+    1. Para hacer las ecuaciones más compactas puede emplearse la barra inclinada
+         ( / ) en lugar de la línea de quebrado.
+
+    2. Los símbolos románicos para variables y parámetros deben ir en cursiva, pero
+         no los símbolos griegos. Se usa paréntesis para eliminar ambigüedades donde
+         sea preciso.
+                                                       37
+3. Utilizar guión de tamaño medio, y no el corto, como signo menos.
+4. Emplear números de ecuaciones consecutivos colocados entre paréntesis en el
+
+    extremo derecho. Si los símbolos de la ecuación no han sido definidos
+    previamente, defínanse inmediatamente después de la misma.
+5. Para referirse a una ecuación emplee “(1)”, y no “Ec. (1)” o “ecuación (1)”,
+    excepto al principio de frase: “La ecuación (1) se emplea cuando …”.
+6. Las ecuaciones pequeñas reducibles a una línea pueden incluirse en el propio
+    texto, precedidas y seguidas de doble espacio. Si al final de la ecuación hay
+    punto y seguido, el doble espacio debe situarse tras el punto.
+7. En el editor de ecuaciones, debe emplearse en el párrafo correspondiente la
+    modalidad de interlineado exacto (13 pto) para que la inserción de la fórmula
+    en la línea no separe esta de la anterior y de la superior.
+
+    El siguiente constituye un ejemplo que ilustra la aplicación de las
+recomendaciones anteriores:
+
+IF IB  IC A2I A1 AI A2 I A0   J 3EA  1 donde IF es la intensidad de falta.
+                             Z1 Z2
+
+   La intensidad eficaz IL en una bobina de inductancia L sometida a una tensión alterna de valor eficaz
+U y pulsación ω es IL = U/ωL. Cuando dicha intensidad …
+
+          El valor de pico IP de la intensidad senoidal de valor eficaz I es IP 2 I . Dicho valor debe
+ser inferior a la intensidad de pico repetitiva del semiconductor …
+
+                             38
+                                             Sección III
+                                             Formatos
+        En esta sección, se presenta la información relacionada con: (a) formatos a
+utilizar en la presentación de la Propuesta de Proyecto Especial de Grado, (b)
+diagramación de portada y contraportada del Proyecto, así como (c) actas de
+evaluación y modelos de comunicaciones.
+       Formatos para presentar la Propuesta de Proyecto Especial de Grado
+        En atención a lo expuesto en la normativa para el Trabajo de Aplicación
+Profesional, la presentación de la Propuesta de Proyecto Especial de Grado, requiere
+incorporar comunicaciones de diferente naturaleza, así como un modelo de portada y
+otros elementos que se describen a continuación. Con el propósito de unificar
+criterios respecto a la presentación del logotipo de la Universidad, es necesario
+utilizar el de color negro, sin letras y de 2 cm. de alto por 2 cm. de ancho, medidas
+que se configuran con ayuda del procesador de textos.
+
+                                                       39
+Portada de la Propuesta de Proyecto Especial de Grado
+
+                       Universidad Nacional Experimental del Táchira
+                                   Vicerrectorado Académico
+                                      Decanato de Docencia
+
+                             Departamento de ________________
+                               Trabajo de Aplicación Profesional
+                                   Proyecto Especial de Grado
+
+   TITULO DE LA PROPUESTA DE PROYECTO ESPECIAL DE GRADO
+
+                                                                     Autor(es): nombre y apellido
+                                                                  Número de cédula de identidad
+
+                                                                                 Correo Electrónico
+                                                  Tutor: (grado académico) nombre y apellido
+
+                                                                                 Correo Electrónico
+
+                                        Ciudad, mes y año
+                                                       40
+Carta de presentación de la Propuesta de PEG por parte del estudiante
+
+                                                                       Ciudad, día de mes de año
+
+Señores:
+Miembros de la Comisión del Trabajo de Aplicación Profesional
+Departamento de ______________________________________
+
+        Yo (nosotros), _____________________________, titular(es) de la(s)
+cédula(s) de identidad No. V(E)-99.999.999, inscrito(s) en el período académico
+______________, estudiante(s) del 99 semestre de la Carrera
+________________________, por medio de la presente, someto(emos) a
+consideración de la Comisión de Trabajo de Aplicación Profesional de este
+departamento, la propuesta de Proyecto Especial de Grado titulada
+___________________________________, la cual se desarrollará bajo la tutoría del
+profesor(a) ___________________________________________.
+
+        Se anexan los recaudos exigidos, de acuerdo a lo dispuesto en la normativa
+para el Trabajo de Aplicación Profesional de la Universidad Nacional Experimental
+del Táchira. La fecha estimada de culminación del proyecto es el ________________
+
+        Sin otro particular a que hacer referencia y en espera de su respuesta,
+
+Atentamente,
+
+                           _________________________________
+                             Nombre completo del autor o autores
+                                         Número de cédula
+
+                                                       41
+Carta de aceptación del Tutor. Caso: Docente Universitario
+                                                                       Ciudad, día de mes de año
+
+Señores:
+Miembros de la Comisión del Trabajo de Aplicación Profesional
+Departamento de ________________________________________
+
+        Yo, _________________________________, titular de la cédula de identidad
+No. V(E)-99.999.999, de profesión _______________________________, adscrito a
+___(Departamento, Facultad, Coordinación)_______________________________,
+de ___(Universidad, Instituto Universitario)________________________________
+en la categoría __________________________________________ y con dedicación
+_______________________, por medio de la presente expreso mi conformidad y
+acepto la tutoría de la propuesta de Proyecto Especial de Grado titulada
+__________________________________________________, presentada por el (los)
+bachiller(es)_________________________________, titular(es) de la(s) cédula(s) de
+identidad No. V(E)-99.999.999, para optar al título de
+______________________________ en la Universidad Nacional Experimental del
+Táchira.
+
+        Sin otro particular a que hacer referencia, me suscribo de usted,
+
+Atentamente,
+
+                        _________________________________
+
+                                Nombre completo del Tutor
+                                     Número de cédula
+
+Anexo: Currículo Vitae
+
+                        42
+Carta de aceptación del Tutor. Caso: Profesional Universitario
+                                                                       Ciudad, día de mes de año
+
+Señores:
+Miembros de la Comisión del Trabajo de Aplicación Profesional
+Departamento de ________________________________________
+
+        Yo, _________________________________, titular de la cédula de identidad
+No. V(E)-99.999.999, de profesión _______________________________, ocupando
+el cargo de ________________________________________________________, en
+__________________empresa, institución, organismo____________________, con
+conocimiento en ___(área de conocimiento que domina)____ y con ___________
+años de experiencia, por medio de la presente expreso mi conformidad y acepto la
+tutoría de la propuesta de Proyecto Especial de Grado titulada
+____________________________________________________________________,
+presentada por el(los) bachiller(es)__________________________, titular(es) de
+la(s) cédula(s) de identidad No. V(E)-99.999.999, para optar al título de
+_______________________ en la Universidad Nacional Experimental del Táchira.
+.
+
+        Sin otro particular a que hacer referencia, me suscribo de usted,
+
+Atentamente,
+
+                        _________________________________
+
+                                Nombre completo del Tutor
+                                     Número de cédula
+
+Anexo: Currículo Vitae
+
+                        43
+Carta de conformidad del Tutor
+
+                       Universidad Nacional Experimental del Táchira
+                                   Vicerrectorado Académico
+                                      Decanato de Docencia
+
+                             Departamento de ________________
+                               Trabajo de Aplicación Profesional
+                                   Proyecto Especial de Grado
+
+ Aprobación del Tutor para presentación de la Propuesta del Proyecto Especial
+                                              de Grado
+
+        Yo, __________________________________________________________
+en mi carácter de Tutor(a) del Proyecto Especial de Grado titulado _______________
+____________________________________________________________________
+presentado por el (los) bachiller(es) _______________________________________
+____________________________________________________________________
+titular(es) de la(s) cédula(s) de identidad Nº (os) V(E) _______________________
+por medio de la presente autorizo la presentación de la Propuesta del Proyecto
+Especial de Grado, ante la Comisión del Trabajo de Aplicación Profesional del
+Departamento______________________________________, en virtud de considerar
+que reúne los requisitos establecidos en el artículo 16 de las Normas para el Trabajo
+de Aplicación Profesional de la UNET.
+
+                                                 Tutor
+                                        Apellidos y Nombre
+                                       C.I.
+
+                                                       44
+Modelo de Carta Compromiso de la Empresa o Institución que financiará el
+proyecto
+
+                                                                      Ciudad, día de mes de año.
+Señores:
+Miembros de la Comisión de Trabajo de Aplicación Profesional
+Departamento de _______________________________
+Presente.
+
+        Nosotros, __________(Nombre de la Empresa)____________, nos
+comprometemos a financiar el desarrollo del Proyecto Especial de Grado que lleva
+por título:____________________________________________________________,
+el cual será desarrollado por el(los) Bachiller(es) _______________________,
+identificado con la(s) cédula(s) de identidad N° V(E)-99.99.999, estudiante(s)
+regular(es) de la carrera___________________________________ en la Universidad
+Nacional Experimental del Táchira.
+
+        Sin otro particular a que hacer referencia,
+
+Atentamente,
+
+                 ______________________________________________
+                  Apellidos y Nombres del representante de la Institución
+
+                                      C.I.: V(E)-99.999.999
+                                       Cargo desempeñado
+
+Nota: Estampar sello húmedo de la empresa
+
+                                                       45
+Modelo de Resumen Curricular para Tutor no perteneciente al Personal
+Académico de la UNET
+
+                                         RESUMEN CURRICULAR
+
+                                           DATOS PERSONALES
+
+Apellidos y Nombres:
+Número de Cédula:
+Lugar y Fecha de Nacimiento:
+Nacionalidad:
+Estado Civil:
+Dirección de Domicilio:
+Teléfonos:
+Correo Electrónico:
+
+                            ESTUDIOS REALIZADOS
+
+Institución:                    Pregrado
+Título Obtenido:               Postgrado
+Año de graduación:          Especialización
+
+Institución:                    Maestría
+Título Obtenido:
+Año de graduación:             Doctorado
+Título Trabajo Especial de
+Grado:
+
+Institución:
+Título Obtenido:
+Año de graduación:
+Título Trabajo Especial de
+Grado:
+
+Institución:
+Título Obtenido:
+Año de graduación:
+Título Trabajo Especial de
+Grado:
+
+                            46
+                  CURSOS REALIZADOS1
+
+NOMBRE DEL CURSO  INSTITUCIÓN                                  AÑO  HORAS  LUGAR
+
+INSTITUCIÓN       EXPERIENCIA2                                      CARGO DESEMPEÑADO
+
+                      ACADÉMICA
+                             PERÍODO (DESDE – HASTA)
+
+INSTITUCIÓN       PROFESIONAL                                       CARGO DESEMPEÑADO
+                          PERÍODO (DESDE – HASTA)
+
+Firma:
+Fecha:
+
+1 Describir los cursos correspondientes a los últimos 5 años.
+2 Describir su experiencia en los últimos 5 años.
+
+                                                       47
+              Preliminares del Proyecto Especial de Grado
+Portada del Proyecto Especial de Grado
+
+              Universidad Nacional Experimental del Táchira
+                          Vicerrectorado Académico
+                             Decanato de Docencia
+
+                    Departamento de ________________
+                      Trabajo de Aplicación Profesional
+                          Proyecto Especial de Grado
+
+                   TITULO DEL PROYECTO ESPECIAL DE GRADO
+
+                                                            Autor(es): nombre y apellido
+                                                         Número de cédula de identidad
+
+                                                                        Correo Electrónico
+                                         Tutor: (grado académico) nombre y apellido
+
+                                                                        Correo Electrónico
+                                Ciudad, mes y año
+
+                                             48
+Contraportada del Proyecto Especial de Grado
+
+              Universidad Nacional Experimental del Táchira
+                          Vicerrectorado Académico
+                             Decanato de Docencia
+
+                    Departamento de ________________
+                      Trabajo de Aplicación Profesional
+                          Proyecto Especial de Grado
+
+                   TITULO DEL PROYECTO ESPECIAL DE GRADO
+        Proyecto Especial de Grado presentado como requisito parcial
+
+                 para optar al título de _____________________
+
+                                                            Autor(es): nombre y apellido
+                                                         Número de cédula de identidad
+
+                                                                        Correo Electrónico
+                                         Tutor: (grado académico) nombre y apellido
+
+                                                                        Correo Electrónico
+
+                                Ciudad, mes y año
+                                             49
+        Modelo de Resumen
+           UNIVERSIDAD NACIONAL EXPERIMENTAL DEL TÁCHIRA
+                            VICERRECTORADO ACADÉMICO
+                                 DECANATO DE DOCENCIA
+                    CARRERA_________________________________
+
+                 TÍTULO DEL PROYECTO ESPECIAL DE GRADO
+
+                                                                   Autor(es): Nombre y Apellido
+                                                                        Tutor: Nombre y Apellido
+                                                                                  Fecha: Mes y año
+
+                                            RESUMEN
+
+        Se describen los elementos principales del proyecto, descritos en la Sección
+Estructura del Proyecto Especial de Grado, utilizando interlineado sencillo, en un
+solo bloque, con ideas separadas a través de los signos puntuación. Se describen los
+elementos principales del proyecto, descritos en la Sección Estructura del Proyecto
+Especial de Grado con interlineado sencillo, en un solo bloque con ideas separadas
+utilizando los signos puntuación. Se describen los elementos principales del proyecto,
+descritos en la Sección Estructura del Proyecto Especial de Grado con interlineado
+sencillo, en un solo bloque con ideas separadas utilizando los signos puntuación. Se
+describen los elementos principales del proyecto, descritos en la Sección Estructura
+del Proyecto Especial de Grado con interlineado sencillo, en un solo bloque con
+ideas separadas utilizando los signos puntuación. Se describen los elementos
+principales del proyecto, descritos en la Sección Estructura del Proyecto Especial de
+Grado con interlineado sencillo, en un solo bloque con ideas separadas utilizando los
+signos puntuación. Se describen los elementos principales del proyecto, descritos en
+la Sección Estructura del Proyecto Especial de Grado con interlineado sencillo, en
+un solo bloque con ideas separadas utilizando los signos puntuación. Se describen los
+elementos principales del proyecto, descritos en la Sección Estructura del Proyecto
+Especial de Grado con interlineado sencillo, en un solo bloque con ideas separadas
+utilizando los signos puntuación.
+
+Descriptores: palabra clave 1, palabra clave 2, palabra clave 3, palabra clave 4,
+palabra clave 5.
+
+                                                       50
+                                           Actas de evaluación
+Acta de la Comisión TAP del Departamento de Carrera. Artículo 17 Normas TAP.
+
+                       Universidad Nacional Experimental del Táchira
+                                   Vicerrectorado Académico
+                                      Decanato de Docencia
+
+                             Departamento de ________________
+                               Trabajo de Aplicación Profesional
+                                   Proyecto Especial de Grado
+
+Acta de Evaluación de la propuesta de Proyecto Especial de Grado por parte de
+                   la Comisión del Trabajo de Aplicación Profesional
+
+        En reunión celebrada en el departamento de _______________________, los
+miembros de la Comisión del Trabajo de Aplicación Profesional, una vez culminada
+la valoración de la Propuesta de Proyecto Especial de Grado, titulada
+________________________________________________________, presentada por
+el(los) bachiller(es)__________________________________________, titular(es) de
+la(s) cédula(s) de identidad No. V(E)-99.999.999, emite el siguiente resultado,
+conforme a los requisitos expuestos en el artículo 16 de las Normas TAP:
+
+                   Aprobado para revisión por parte del jurado
+                   No aprobado para revisión por parte del jurado
+Observaciones:
+
+        En la ciudad de ____________ a los ___ días del mes de ___ del año _____.
+Por la Comisión TAP,
+
+     Coordinador             Secretario      Responsable de revisión
+Apellidos y Nombre     Apellidos y Nombre       Apellidos y Nombre
+C.I.                C.I.
+                                           C.I.
+                                      51
+Acta del Jurado Evaluador de la Propuesta de Proyecto Especial de Grado. Art. 19
+Normas TAP.
+
+                                 Universidad Nacional Experimental del Táchira
+                                              Vicerrectorado Académico
+                                                 Decanato de Docencia
+
+                                       Departamento de ________________
+                                         Trabajo de Aplicación Profesional
+                                             Proyecto Especial de Grado
+
+             Acta de Evaluación de la propuesta de Proyecto Especial de Grado
+                                           por parte del Jurado
+
+         Los abajo firmantes, designados por el Consejo de Departamento de la Carrera
+__________________________ constituidos en pleno como miembros del Jurado Evaluador
+de la propuesta de Proyecto Especial de Grado titulada ______________
+____________________________________________________________________presenta
+da por el (los) bachiller(es) _______________________________________
+____________________________________________________________________
+identificado(s) con cédula(s) de identidad N°(s) __________________, reunidos el día
+_____________________________ realizada la valoración, acuerdan:
+
+                             Aprobar
+                             No aprobar
+
+la Propuesta de Proyecto Especial de Grado, en función de las observaciones, acuerdos y
+criterios que se describen a continuación
+
+En virtud de ello se firma la presente acta,
+
+         Tutor                 Jurado1                    Jurado2
+Apellidos y Nombre     Apellidos y Nombre          Apellidos y Nombre
+C.I.                C.I.                      C.I.
+
+                                      52
+Acta de Observaciones del Proyecto Especial de Grado. Artículo 26 Normas TAP
+
+                       Universidad Nacional Experimental del Táchira
+                                   Vicerrectorado Académico
+                                      Decanato de Docencia
+
+                             Departamento de ________________
+                               Trabajo de Aplicación Profesional
+                                   Proyecto Especial de Grado
+
+  Acta de Observaciones del Proyecto Especial de Grado por parte del Jurado
+
+        Los abajo firmantes, constituidos en pleno como miembros del Jurado
+Evaluador del Proyecto Especial de Grado titulado _________________________
+__________________________________________________________________
+presentado por el (los) bachiller(es) _______________________________________
+____________________________________________________________________
+identificado(s) con cédula(s) de identidad N°(s) __________________, reunidos el
+día _______(fecha: dd/mm/aaaa)________________ con el propósito de valorar el
+proyecto entregado, según los criterios sugeridos en el Instructivo, acuerdan formular
+las siguientes observaciones:
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+Las observaciones sugeridas deben ser entregadas en un lapso máximo de dos (2)
+semanas continuas, contadas a partir de la fecha del acta. Concluida la reunión, a los
+efectos de la notificación, se entregará copia del Acta al autor o autores del Proyecto,
+la cual deberá ser suscrita por estos últimos.
+
+         Tutor                 Jurado1                 Jurado2
+Apellidos y Nombre     Apellidos y Nombre       Apellidos y Nombre
+C.I.                C.I.                   C.I.
+
+                    53
+Solicitud de Acta del Proyecto Especial de Grado. Artículo 27 Normas TAP.
+
+                                                    San Cristóbal, _____ de ________ de 2010
+
+Ciudadano:
+Título, Apellido y Nombre
+Jefe del Departamento de _________________
+Presente.-
+
+Nos dirigimos a usted con el fin de solicitar Acta de Grado para el Proyecto Especial
+de Grado (P.E.G) titulado:_______________________________________________
+__________________________________desarrollado por el (los) Bachiller (es)
+____________________________________________ identificados con Cédula (s)
+de Identidad N° V(E)-_____________________,bajo la tutoría del(la) Profesor(a)
+____________________________actuando como jurados evaluadores los
+profesores:___________________________________________________________
+Así mismo, se acordó realizar la presentación pública el día______(fecha)____ en
+__________(lugar)________________, a las ______________(hora)_____________
+
+Sin otro particular a que hacer referencia,
+
+Atentamente,
+
+Firma Tutor  Firma Jurado1  Firma Jurado2
+Académico
+
+             54
+Aprobación del Tutor para presentación del Proyecto Especial de Grado
+
+                       Universidad Nacional Experimental del Táchira
+                                   Vicerrectorado Académico
+                                      Decanato de Docencia
+
+                             Departamento de ________________
+                               Trabajo de Aplicación Profesional
+                                   Proyecto Especial de Grado
+
+     Aprobación del Tutor para presentación del Proyecto Especial de Grado
+
+        Yo, __________________________________________________________
+en mi carácter de Tutor(a) del Proyecto Especial de Grado titulado _______________
+____________________________________________________________________
+presentado por el (los) bachiller(es) _______________________________________
+____________________________________________________________________
+titular(es) de la(s) cédula(s) N° V(E) ____________________________________
+por medio de la presente autorizo su presentación ante el Jurado que se designe, en
+virtud de considerar que reúne los requisitos y méritos necesarios para ser sometido a
+presentación pública.
+
+                                                 Tutor
+                                        Apellidos y Nombre
+                                       C.I.
+
+                                                       55
+Planilla para evaluación del Proyecto Especial de Grado culminado por parte del
+Jurado (Artículo 29, literal a, Normas TAP)
+
+                          Universidad Nacional Experimental del Táchira
+                                      Vicerrectorado Académico
+                                         Decanato de Docencia
+
+                             Departamento de ___________________
+
+Planilla de Evaluación del Jurado para el Proyecto Especial de Grado (PEG)
+     (Incluye elaboración de dispositivos, equipos, prototipos o software)
+
+Autor(es):                            Datos de Identificación
+Título del PEG:                                                      N° Cédula(s):
+Tutor Académico:
+Jurado1:                                          Jurado2:
+
+                               Registro de Calificaciones
+
+                               Tutor  Jurado 1               Jurado 2               Promedio simple
+
+Evaluación del Documento
+final del PEG.
+Evaluación de la
+Exposición del PEG.
+Evaluación del
+funcionamiento.
+
+                                      Evaluación Definitiva
+
+                                      Calificación  Porcentaje                      Definitiva por ítem
+
+Evaluación Tutor Académico                                   20%
+Documento Final
+Evaluación del funcionamiento                                25%
+Exposición
+                                                             25%
+
+                                                             30%
+
+                                          Calificación del PEG
+
+Tutor Académico                       Jurado 1                                      Jurado 2
+
+                                      56
+Planilla para evaluación del Proyecto Especial de Grado culminado por parte del
+Jurado (Artículo 29, literal b, Normas TAP)
+
+                             Universidad Nacional Experimental del Táchira
+                                         Vicerrectorado Académico
+                                            Decanato de Docencia
+
+                                Departamento de ___________________
+
+Planilla de Evaluación del Jurado para el Proyecto Especial de Grado
+(No incluye elaboración de dispositivos, equipos, prototipos o software)
+
+Autor(es):                          Datos de Identificación
+Título del PEG:                                                    N° Cédula(s):
+Tutor Académico:
+Jurado1:                                        Jurado2:
+
+                  Registro de Calificaciones del Documento Final y Exposición
+
+                             Tutor  Jurado 1               Jurado 2 Promedio simple
+
+Evaluación del Documento
+final del Proyecto Especial
+de Grado.
+Evaluación de la
+Exposición del Proyecto
+Especial de Grado.
+
+                                    Evaluación Definitiva
+
+                                    Calificación  Porcentaje                      Definitiva por ítem
+
+Evaluación Tutor Académico                                 20%
+Documento Final
+Exposición                                                 50%
+
+                                                           30%
+
+                                    Calificación del PEG
+
+Tutor Académico                     Jurado 1                                      Jurado 2
+                                       57
+Acta de evaluación del Proyecto Especial de Grado culminado
+
+                           Universidad Nacional Experimental del Táchira
+                                        Vicerrectorado Académico
+                                           Decanato de Docencia
+
+                               Departamento de ___________________
+
+                                                                                    Número de Acta
+
+                                  ACTA
+
+En la ciudad de San Cristóbal, el día _____número del día_______ de __mes____ de
+____año______ se reunieron:
+
+Nombre y Apellido Tutor      C.I. V(E)-Número cédula de identidad
+Nombre y Apellido Jurado1    C.I. V(E)-Número cédula de identidad
+Nombre y Apellido Jurado2    C.I. V(E)-Número cédula de identidad
+
+Para constituirse como Jurado Evaluador del Proyecto Especial de Grado titulado
+
+___________________________________________________________________
+
+cuyo(s) autor(es) es (son) el (los) bachiller(es):
+
+Nombre y Apellido Autor(es)  C.I. V(E)-Número cédula de identidad
+
+Quienes lo presentaron como Proyecto Especial de Grado para optar al título de
+___________________________________________________________ de la
+Universidad Nacional Experimental del Táchira. El Jurado dio por aprobado el
+presente trabajo y otorgó la calificación de ( ) puntos en la escala del 1 al 9.
+
+Nombre y Apellido  Nombre y Apellido                         Nombre y Apellido
+ Tutor Académico         Jurado1                                    Jurado2
+
+                           58
+                                                 Referencias
+American Psychological Association. (2002). Manual de Estilo de Publicaciones de
+
+   la American Psychological Association. (2ª. Ed.). México D. F.: Manual Moderno.
+Hernández, A., Paolini, F. y Salcedo, J. (2008). Instructivo para las Pasantías
+
+   Profesionales. [Documento no publicado] San Cristóbal: Universidad Nacional
+   Experimental del Táchira.
+Martínez, S., Míguez, J. y Rey, E. (2007, agosto 27). Plantilla de preparación de
+   artículos técnicos en procesador de texto Word para la Revista IEEE América
+   Latina en español. [Documento en línea]. Disponible:
+   http://www.udi.edu.co/paginas/investigacion/descargas/02/FORMATO_11.doc
+   [Consulta: 2010, mayo 25].
+Muñoz, C. (1998). Cómo elaborar y asesorar una Investigación de Tesis. México
+   D.F.: Prentice Hall.
+Universidad Pedagógica Experimental Libertador. (2006). Manual de Trabajos de
+   Grado de Especialización y Maestría y Tesis Doctorales. (4ª. Ed.). Caracas:
+   FEDUPEL.
+
+                                                       59
+                                                                  [Anexo A]
+ [Procedimiento para la formulación, presentación y evaluación de la Propuesta del Proyecto Especial de Grado]
+
+Presentación de la Propuesta de Proyecto Especial de Grado
+
+Comisión TAP Estudiante(s)       Cumplimiento del     Elección del tema    Selección del          Preparación de la                 Visto Bueno Tutor                            Presentación de la
+                                   80% unidades           del Proyecto   Tutor Académico           propuesta según                      Académico                                  propuesta ante
+                                   crédito plan de                                                artículo 16 normas                                                               Comisión TAP
+                                                      Especial de Grado
+                                 estudio aprobadas            (PEG)                                        TAP
+
+                                     Preparación                                                                                    Propuesta de PEG
+                                   criterios para la
+                                 evaluación de las     Preparación de         Reunión de          Registro y Control                Acta con criterios evaluación                  Devolución de la propuesta al autor(es)
+                                                           formatos,          Evaluación            de propuestas                                                                 No
+                                     propuestas                           (10 días hábiles a           valoradas                         Generación de             Aprobado
+                                                      comunicaciones y   partir de recepción)                                                   actas                            Sí
+                                                              actas
+
+                                                                         Acta con propuesta de Jurado (2 principales y 1 suplente)
+
+Consejo de                            Actas de        Revisión de los    conforme                   Sí                               Memorando al                  Apelación ante el Consejo
+   Dpto                          Evaluación de la          jurados                          No                                      Tutor Académico                     de Departamento
+                                  Comisión TAP                                                      Nueva                                                                 (5 días hábiles)
+                                                        propuestos                                propuesta
+
+                                                                                                    jurado
+
+         Departamento Académico                                          Acuerdo sobre fecha                                        Generación de                            No         Desarrollo de la
+                                                                               de reunión                                                Acta de                                            propuesta
+Tutor                            Información de       Entrega al jurado                           Reunión de                                                       Aprobado      Sí
+                                      jurados         de propuesta PEG     (6 días hábiles a      Evaluación                        Evaluación con                                   (16 semanas a partir
+                                                                         partir de notificación)   Formativa                            criterios                                     fecha acta jurado)
+                                                          para lectura
+
+                                                                                                  Actas de propuestas aprobadas
+
+Jefe de                          Actas de Evaluación  Inscripción del
+                                     de propuestas    TAP - PEG en
+                                       aprobadas
+                                                        Control de
+                                                         Estudios
+                                                                      [Anexo B]
+               [Procedimiento para la formulación, presentación y evaluación del Proyecto Especial de Grado]
+
+Desarrollo y Evaluación del Proyecto Especial de Grado
+
+                                                                                                                               A                                  B
+
+Estudiante(s)    Presentación del   Proyecto Especial                              Incorporar las                      Fecha de la                 Realizar las   Consignación de dos
+                Proyecto Especial          de Grado                             observaciones del                         defensa               modificaciones            ejemplares
+               de Grado culminado         culminado                                                                                             sugeridas por el
+                                                                                         Jurado                                                                   empastados (Tutor y
+                     ante el Tutor                                                                                                                     Jurado       Biblioteca) y cinco
+                                                                                                                                                                            digitales
+
+Tutor             Notificación al    Entrega de          Proyecto Especial  Proyecto modificado                        Sí
+   Académico   Jurado Evaluador     ejemplares al               de Grado        (3 días hábiles)
+                                                               culminado                                   Notificación al autor       No
+                      Valorar el     jurado para
+               Proyecto Especial      valoración                                                           y al Departamento Evaluación en la
+
+                      de Grado                                                                                                         defensa
+                (10 días hábiles)
+Jurado                                   Registro en       Reunión de                  Acta con las                     Conformidad
+   Evaluador                A       instrumento de los   Evaluación del             observaciones al                   modificaciones
+
+                  Presencia del       resultados de la         Jurado                     Proyecto
+                Jurado en pleno           evaluación                                 (2 días hábiles)
+
+Consejo de                  B                            Proyecto, Acta y                                        No    Memorando con                    PEG
+   Dpto                                                   Comunicación                                     Remisión          decisión              modificado
+                 Generación de                                                                        al Consejo Dpto
+                      solvencia                           Observaciones
+                                                                                Valoración del
+                                                                                    Proyecto
+
+Reunión de                                                                                                                                        Sí
+   Evaluación                                                                                                          Tres días hábiles para modificación
+
+                                      Exposición oral                       No                    Mención                              Generación de
+                                     del Proyecto por
+                                    parte del autor(es)                                                    Sí consta en Acta             Acta de
+                                                                                                                                       Evaluación
+                                     Consignación de
+Departamento                        Acta aprobatoria a                                                                 No
+
+                                          Control de
+                                            Estudios
+
+                                                                                61
+                               [Anexo C]
+        [Modelo para índices de tablas, figuras u otros]
+
+                        ÍNDICE DE TABLAS
+
+TABLAS                                                    pp.
+
+1       Título tabla 1                                    99
+
+2       Título tabla 2                                    99
+
+3       Título tabla 3                                    99
+
+4       Título tabla 4                                    99
+
+5       Título tabla 5                                    99
+
+6       Título tabla 6                                    99
+
+7       Título tabla 7                                    99
+
+…       …                                                 …
+
+n       Título tabla n                                    nn
+UNET                                                        [Anexo D]
+ Mes                                   [Modelo de Portada para el Encuadernado]
+ Año
+                                              Universidad Nacional Experimental del Táchira
+Título del Proyecto Especial de Grado                      Vicerrectorado Académico
+                                                              Decanato de Docencia
+
+                                                     Departamento de ________________
+                                                       Trabajo de Aplicación Profesional
+                                                           Proyecto Especial de Grado
+
+                                       TITULO DEL PROYECTO ESPECIAL DE GRADO
+
+3 cm                                                      Autor(es): nombre y apellido
+     separación                                   Tutor: (grado académico) nombre y
+
+PEG                                                                                apellido
+                                       Ciudad, mes y año
+
+                                        63
+                         [Anexo E]
+[Modelo de Caratula y Etiqueta Disco Compacto]
+
+                                 64
+
